@@ -589,6 +589,10 @@ footer ul li a:hover {
 }
 
 @media screen and (min-width: 900px) and (max-width: 959px) {
+    .col {
+        flex: 100%;
+        max-width: 80%;
+    }
     .w25 {
         width: 50%;
     }
@@ -598,6 +602,10 @@ footer ul li a:hover {
 }
 
 @media screen and (min-width: 700px) and (max-width: 899px) {
+    .col {
+        flex: 100%;
+        max-width: 80%;
+    }
     .w25 {
         width: 50%;
     }
@@ -613,6 +621,10 @@ footer ul li a:hover {
 }
 
 @media screen and (min-width:600px) and (max-width:699px) {
+    .col {
+        flex: 100%;
+        max-width: 80%;
+    }
     .menu-desktop {
         display: none;
     }
@@ -673,6 +685,10 @@ footer ul li a:hover {
 }
 
 @media screen and (max-width:599px) {
+    .col {
+        flex: 100%;
+        max-width: 80%;
+    }
     .w25 {
         width: 100%;
     }
